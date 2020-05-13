@@ -64,4 +64,4 @@ It is particularly important for people whose gender presentation and identity a
 
 ## See Also
 [gender pronouns](/definitions/gender-pronouns)
-[preferred pronouns](/definitions/preferred-pronouns)
+[preferred pronouns](/definitions/preferred-pronoun)
